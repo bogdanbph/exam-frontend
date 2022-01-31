@@ -1,0 +1,18 @@
+[
+    {
+        "articleId": 1,
+        "articleTitle": "Title1",
+        "articleAbstract": "AbstractNumber1",
+        "articleDate": "2019-12-31T22:00:00.000Z",
+        "createdAt": "2022-01-31T10:34:47.177Z",
+        "updatedAt": "2022-01-31T10:58:14.518Z"
+    },
+    {
+        "articleId": 2,
+        "articleTitle": "Title2",
+        "articleAbstract": "AbstractNumber2",
+        "articleDate": "2019-12-31T22:00:00.000Z",
+        "createdAt": "2022-01-31T11:40:05.063Z",
+        "updatedAt": "2022-01-31T11:40:05.063Z"
+    }
+]
